@@ -41,7 +41,6 @@ input:focus {
 
 label {
     font-size: 3em;
-    font-weight: 900;
     text-transform: uppercase;
     font-family: 'Montserrat', tahoma, sans-serif;
 }
@@ -148,20 +147,3 @@ label {
         height: 350px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

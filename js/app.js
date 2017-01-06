@@ -14,12 +14,14 @@ function loadAjax() {
                         ajaxHTML += '<p class="bio">' + data[i].bio + '</p>';
                         ajaxHTML += '<p class="tag">Tags: ' + data[i].tags + '</p>';
                         ajaxHTML += '</li>'; 
-                    }   // end of Reg Exp if statement function
-            }   // end of for loop
+                    }   // end of Reg Exp if statement
+                }   // end of for loop
             ajaxHTML += '</ul>';
             var innerContents = document.getElementById('ajax');
             innerContents.innerHTML = ajaxHTML;
-        }   // end of if statement
+        } else {
+            alert(xhr.status);
+        }   // end of if else statement
     };  // callback function
     xhr.open('GET', '../data/data.json');
     xhr.send(); 
