@@ -19,10 +19,8 @@ function loadAjax() {
             ajaxHTML += '</ul>';
             var innerContents = document.getElementById('ajax');
             innerContents.innerHTML = ajaxHTML;
-        } else {
-            alert(xhr.status);
-        }   // end of if else statement
+        }   // end of if statement
     };  // callback function
     xhr.open('GET', '../data/data.json');
     xhr.send(); 
-}
+}   // load Ajax function
