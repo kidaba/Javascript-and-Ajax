@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Nick Pettit",
+        "source" : "nick_pettit",
+        "bio" : "Nick was the first teacher to join Treehouse. Since 2010, he has created dozens of courses on web development, game development, and VR. In his free time, Nick works on independent video games and helps organize the Orlando Virtual Reality meetup.",
+        "tags" : "HTML, CSS"
+    },
+    {
+        "name" : "Dave McFarland",
+        "source" : "dave_mcfarland",
+        "bio" : "Author, web developer and teacher with over 19 years experience building, designing and programming web sites. I've authored three books for O'Reilly publishing and have taught at numerous colleges and universities.",
+        "tags" : "Javascipt, AJAX"
+    },
+    {
+        "name" : "Guil Hernandez",
+        "source" : "guil_hernandez",
+        "bio" : "I'm a front-end design & development teacher at Treehouse, owner of Sass break blog.  Sass break is a humble new blog for the Sass community. It’s currently maintained and curated by David Conner and Guil Hernandez.",
+        "tags" : "HTML, CSS"
+    },
+    {
+        "name" : "Hampton Catlin",
+        "source" : "hampton_catlin",
+        "bio" : "Hampton Catlin is an American computer programmer, programming language inventor, gay rights advocate, and author best known as the creator of the Sass and Haml markup languages. Catlin now sits as the Co-Founder and CEO of Team RareBit.",
+        "tags" : "Sass, Ruby"
+    },
+    {
+        "name" : "Simon Allardice",
+        "source" : "simon_allardice",
+        "bio" : "I'm Simon Allardice. I obsess over the best waysto learn and teach software development. Then I write and record courses that do that.Simon Allardice is a software developer and writer. He has programmed nuclear reactors and music drivers.",
+        "tags" : "Javascript, iOS Development, Software Development"
+    },
+    {
+        "name" : "Ray Villalobos",
+        "source" : "ray_villalobos",
+        "bio" : "Ray Villalobos is a full-stack design/development teacher and a full-time author at Lynda.com. His courses are focused on front-end design and development topics such as JavaScript, AngularJS, and Sass, plus frameworks like Bootstrap and tools that will make you a faster, more effective, and efficient developer.",
+        "tags" : "Bootstrap, Javascript, AngularJS, Sass"
+    },
+    {
+        "name" : "Eve Porcello",
+        "source" : "eve_porcello",
+        "bio" : "Eve Porcello is a developer and trainer based in Northern California. She works with Moon Highway to design and deliver hands-on engineering training classes to students all over the world. With a background in UX/UI design, prototyping, and coding, Eve has launched applications ranging from mobile apps to CMS platforms to ecommerce sites.",
+        "tags" : "ReactJS"
+    },
+    {
+        "name" : "Joe Marini",
+        "source" : "joe_marini",
+        "bio" : "Joe Marini is a senior developer advocate at Google, and has worked in the web and software industries for more than 20 years. He was an original member of the Dreamweaver engineering team at Macromedia, and held prominent early roles in creating products such as QuarkXPress, Microsoft Expression Blend, mFactory's mTropolis, and Extensis QX-Tools.",
+        "tags" : "jQuery, HTML5 Graphics and Animation"
+    },
+    {
+        "name" : "Kevin Skoglund",
+        "source" : "kevin_skoglund",
+        "bio" : "Kevin Skoglund is the founder of Nova Fabrica, a web development agency specialized in delivering custom, scalable solutions using Ruby on Rails, PHP, SQL, and related technologies. Nova Fabrica clients include An Event Apart, Atlas Carpet Mills, Consulate Film, Gregorius|Pineo, Maharam, Oakley, and The Bold Italic. Kevin is a lynda.com author with over 15 years of teaching and web development experience.",
+        "tags" : "Git, Ruby on Rails"
+    },
+    {
+        "name" : "Steve Heffernan",
+        "source" : "steve_heffernan",
+        "bio" : "Steve Heffernan is a front-end web developer who has been making web sites since 1999. He is also an HTML5 video enthusiast, and he has spoken on HTML5 video at the Open Video Conference. Steve is the creator of the popular HTML5 video player, VideoJS, and a co-founder of Zencoder, a cloud-based video encoding service.",
+        "tags" : "HTML5 Video and Audio"
+    }
+]
